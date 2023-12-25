@@ -1,6 +1,6 @@
 /* Header
 ------------------------------------------------
-Maheshwari.
+Moazzam.
 
 Home
 About
@@ -13,11 +13,11 @@ Contact
 /* Home
 --------------------------------------------------
 
-I Am <span class="home__name">Maheshwari</span><br>
+I Am <span class="home__name">Moazzam</span><br>
 Full Stack<br>
  Developer
 
-Hi, I'm Maheshwari Rajabhau Surwase, doing B.Tech graduation in Computer Science and Engineering. As a full-stack web developer, I specialize in creating dynamic and user-friendly web applications. I'm passionate about staying updated with the latest technologies and solving complex challenges. Nice to meet you all!
+Hi, I'm Moazzam Chaudhari, doing B.Tech graduation in Electronics and telecommunication Engineering. As a full-stack web developer, I specialize in creating dynamic and user-friendly web applications. I'm passionate about staying updated with the latest technologies and solving complex challenges. Nice to meet you all!
 
 Hire Me
 
@@ -28,7 +28,7 @@ Follow Me: Linkedin - Github - Netlify - HackerRank
 --------------------------------------------------
 
 About Me
-I am Maheshwari, a dedicated and skilled web developer. My focus is on designing and developing user-friendly web experiences that simplify people's lives. With my expertise in various programming languages, frameworks, and databases, I strive to create robust and efficient solutions. I continuously stay updated with the latest industry trends and technologies to deliver cutting-edge solutions. Overall, I am committed to delivering excellence and ensuring that my work adds value to people's lives.
+I am Moazzam, a dedicated and skilled web developer. My focus is on designing and developing user-friendly web experiences that simplify people's lives. With my expertise in various programming languages, frameworks, and databases, I strive to create robust and efficient solutions. I continuously stay updated with the latest industry trends and technologies to deliver cutting-edge solutions. Overall, I am committed to delivering excellence and ensuring that my work adds value to people's lives.
 
 Download CV
 
@@ -40,7 +40,7 @@ Some of My Working Tools
 
 
 programming
-- Java
+- MATLAB
 - C++
 
 Web Development
@@ -65,13 +65,13 @@ Web Development
 3
 Years Experience
 
-16
+5
 Projects Completed
 
-150+
+250+
 DSA Questions
 
-8
+9.07
 B.Tech CGPA
 
 
@@ -112,13 +112,13 @@ Cyber Security & Ethical Hacking Internship
 My Education
 Information About Education
 
-10th-SSC 2017-2018
-Janta Vidhya Mandir Murud
+10th-SSC 2016-2017
+Smt. A.I.E.S Washim
 
-12th-HSC 2019-2020
-Dayanand Science College Latur
+12th-HSC 2018-2019
+Shri Bakliwal Junior College
 
-B.Tech CSE 2021-2024
+B.Tech EXTC 2021-2024
 SGGS IE&T Vishnupuri, Nanded
 
 
@@ -128,14 +128,14 @@ SGGS IE&T Vishnupuri, Nanded
 Let`s Talk
 Have a Project Idea? Contact
 
-- Linkedin: https://www.linkedin.com/in/maheshwari-surwase/
-- Email: surwasemahi@gmail.com
-- Location: At.Post Ekurga, Latur, Maharashtra
+- Linkedin: https://www.linkedin.com/in/moazzam-chaudhari/
+- Email: moazzamchaudhari49@gmail.com
+- Location: Washim, Maharashtra
 
 /* Footer
 --------------------------------------------------
 
-Maheshwari Surwase 
+Moazzam Chaudhari 
 Home - About - Skills - Experiences - Projects - Educations - Contact
 
 

@@ -17,7 +17,7 @@ I Am <span class="home__name">Moazzam</span><br>
 Full Stack<br>
  Developer
 
-Hi, I'm Moazzam Chaudhari, doing B.Tech graduation in Electronics and telecommunication Engineering. As a full-stack web developer, I specialize in creating dynamic and user-friendly web applications. I'm passionate about staying updated with the latest technologies and solving complex challenges. Nice to meet you all!
+Hi, I'm Moazzam Chaudhari, doing B.Tech graduation in Electronics and telecommunication Engineering. As a web developer, I specialize in creating dynamic and user-friendly web applications. I'm passionate about staying updated with the latest technologies and solving complex challenges. Nice to meet you all!
 
 Hire Me
 

@@ -28,7 +28,7 @@ Follow Me: Linkedin - Github - Netlify - HackerRank
 --------------------------------------------------
 
 About Me
-I am Moazzam, a dedicated and skilled web developer. My focus is on designing and developing user-friendly web experiences that simplify people's lives. With my expertise in various programming languages, frameworks, and databases, I strive to create robust and efficient solutions. I continuously stay updated with the latest industry trends and technologies to deliver cutting-edge solutions. Overall, I am committed to delivering excellence and ensuring that my work adds value to people's lives.
+I am Moazzam, a dedicated and skilled web developer. My focus is on designing and developing user-friendly web experiences that simplify people's lives. With my expertise in various programming languages, frameworks, and databases, I strive to create robust and efficient solutions. I continuously stay updated with industry trends and technologies to deliver cutting-edge solutions. Overall, I am committed to delivering excellence and ensuring that my work adds value to people's lives.
 
 Download CV
 
@@ -47,17 +47,12 @@ Web Development
 - HTML
 - CSS
 - JavaScript
-- Node.Js 
 - React 
 - MongoDB
 - MySQL
-- PHP 
 - Netlify
 - Github
-- Postman
 - BootStrap
-- Tailwind
-- Canva
 
 /* Counter
 --------------------------------------------------
@@ -80,20 +75,17 @@ B.Tech CGPA
 
 My Experiences
 
-Full Stack Web Developement Internship
+Web Development Internship
 Let's Talk
-
-Cyber Security & Ethical Hacking Internship
 
 
 /* My Projects
 --------------------------------------------------
 
-- Zomato Clone
-- Social Media application
-- Book My Show
-- Chat application
-- Tasky application
+- Car Management System
+- Airline Reservation System
+- My Portfolio
+- Waste Management System
 
 
 /* Coding Platform 
@@ -126,7 +118,7 @@ SGGS IE&T Vishnupuri, Nanded
 --------------------------------------------------
 
 Let`s Talk
-Have a Project Idea? Contact
+Do you have a Project Idea? Contact
 
 - Linkedin: https://www.linkedin.com/in/moazzam-chaudhari/
 - Email: moazzamchaudhari49@gmail.com
